@@ -17,3 +17,4 @@
 </div>
   
   
+![Snake animation](https://github.com/FabricioCapistrano/FabricioCapistrano/blob/output/github-contribution-grid-snake.svg)
